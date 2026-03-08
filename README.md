@@ -71,3 +71,5 @@ Known limitations:
 - Learning roadmap depends on Claude API; fallback is deterministic but simple.
 
 - CLI-only interface — no GUI, limited visual feedback.
+
+Video Link: https://youtu.be/s3UIl5fVmB0
