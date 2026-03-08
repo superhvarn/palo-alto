@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Cloud Engineer",
+    "skills": ["AWS", "Docker", "Kubernetes", "Terraform", "Linux"]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "skills": ["Python", "PyTorch", "TensorFlow", "Statistics", "Data Structures"]
+  },
+  {
+    "title": "Backend Engineer",
+    "skills": ["Python", "SQL", "APIs", "Docker", "System Design"]
+  }
+]
